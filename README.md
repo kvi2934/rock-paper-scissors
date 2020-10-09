@@ -1,0 +1,1 @@
+A basic Rock Paper Scissors Game played with the console using JavaScript.
